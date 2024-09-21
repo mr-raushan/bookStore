@@ -48,6 +48,7 @@ export const Footer = () => {
         </nav>
         <aside>
           <p>
+            {/* // 54: 38 */}
             Copyright © {new Date().getFullYear()} - All right reserved by ACME
             Industries Ltd
           </p>

@@ -77,7 +77,7 @@ export const Navbar = () => {
             <label className="px-3 py-2 border rounded-md flex items-center gap-2">
               <input
                 type="text"
-                className="grow outline-none font-bold"
+                className="grow outline-none"
                 placeholder="Search"
               />
               <svg

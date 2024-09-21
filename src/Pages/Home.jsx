@@ -1,4 +1,3 @@
-// import book1 from "./book.jpg";
 export const Home = () => {
   return (
     <>
